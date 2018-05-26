@@ -8,7 +8,8 @@ A video of the workshop can be found on engineers.sg:
 [Part 2](https://engineers.sg/video/june-2017-meetup-django-graphql-reactjs-apollo-workshop-singapore-djangonauts-part-2--1857).
 
 The sound in the video is messed up. I'm looking for a venue and an audience
-to record the talk one more time :(
+to record the talk one more time :(  
+Meanwhile, you can find [denoised versions here](https://www.youtube.com/playlist?list=PLfCXa12fHp8SnJ2CWzCKt-EP_QIgnW3ph).
 
 This README was basically the "slides" for the workshop, so if you want to
 learn as well, just keep on reading!
